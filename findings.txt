@@ -1,0 +1,9 @@
+It seems that:
+
+1.SCH_STATUS_MAGNET gets a higher propotion than the JJ.
+
+2.In SCH_STATUS_MAGNET, the porpotion of male and female is similar.
+
+3.In JJ,the porpotion of male is far higher than the female, which is just like my expectation.After all,boy are more likely to fight,play truant(or do something like that) during his youth.
+
+4.The porpotion of different race in our data is similar to the Wikipedia's U.S. race demography page's data.But I guess the Wiki's White people include the White and Hispanic in our data.
